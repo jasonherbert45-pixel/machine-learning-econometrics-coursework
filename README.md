@@ -94,4 +94,10 @@ This project was completed collaboratively by Group 34 at the University of Bath
 - Danny Fowler
 - Harry Solomon
 - Jason Herbert
-  
+
+## Reproducibility testing — October 2026
+
+The original analysis was rerun using R 4.6.1 on Windows 11.
+Both parts of the coursework executed successfully. For Part 2, all five random seeds were tested using a 30% test split.
+Of the 30 classification results reported in the coursework, 27 matched to three decimal places. Three gradient boosting results differed slightly. Repeated execution confirmed that the Seed 5 gradient boosting result was stable in the tested environment.
+The complete R environment is documented in session-info.txt.
