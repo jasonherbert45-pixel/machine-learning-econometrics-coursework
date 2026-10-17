@@ -1,0 +1,17 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio local configuration
+.Rproj.user/
+
+# Temporary files
+*.Rproj.user
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
